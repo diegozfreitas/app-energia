@@ -1,0 +1,25 @@
+{
+  "name": "apienergia",
+  "version": "1.0.0",
+  "description": "app de monitoramento de energia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegozfreitas/app-energia.git"
+  },
+  "author": "noix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegozfreitas/app-energia/issues"
+  },
+  "homepage": "https://github.com/diegozfreitas/app-energia#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "knex": "^1.0.4",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3"
+  }
+}
